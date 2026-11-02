@@ -3,7 +3,7 @@
 ## Dataset 1: School Scores
 Link: https://corgis-edu.github.io/corgis/csv/school_scores/
 
-Questions I would be interested in answering:
+Questions I would be interested in answering
 - Which states have the highest average SAT scores?
 - Does family income have an impact on students' SAT scores?
 - Have SAT scores changed over the years?
